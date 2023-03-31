@@ -6,5 +6,5 @@ Console.WriteLine("Hello, World!");
 Person p = new Person();
 p.Name = "Mary";
 Console.WriteLine(p.Name);
-Console.WriteLine();
+Console.WriteLine("ghl");
 Console.ReadKey();
